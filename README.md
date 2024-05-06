@@ -1,5 +1,5 @@
 # Ex No:9 Implementation-of-SVM-For-Spam-Mail-Detection
-
+# DATE:
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
 
